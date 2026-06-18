@@ -1,2 +1,1 @@
-# Demo first Repository
-merge it .
+# Demo is my first Repository
