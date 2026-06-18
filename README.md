@@ -1,2 +1,2 @@
-# Demo first Repo .
+# Demo first Repository
 merge it .
